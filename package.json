@@ -1,0 +1,26 @@
+{
+  "name": "medical_appointments",
+  "version": "1.0.0",
+  "description": "Este proyecto permite a los usuarios buscar médicos por especialidad o nombre, ver información detallada sobre los médicos y reservar citas según su disponibilidad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zabaletac3/medical_appointments.git"
+  },
+  "keywords": [
+    "medical",
+    "bookings",
+    "appointments",
+    "auth",
+    "jwt"
+  ],
+  "author": "Cristian Zabaleta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zabaletac3/medical_appointments/issues"
+  },
+  "homepage": "https://github.com/zabaletac3/medical_appointments#readme"
+}
